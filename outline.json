@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "New Main Section",
+        "subsections": []
+    },
+    {
+        "id": "2",
+        "title": "2.important",
+        "subsections": [
+            {
+                "id": "1",
+                "title": "New Subsection",
+                "subsections": []
+            }
+        ]
+    }
+]
